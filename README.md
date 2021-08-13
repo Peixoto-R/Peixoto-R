@@ -20,6 +20,9 @@ Enjoy it!
 * <img align="top" height="20"  src="https://iconape.com/wp-content/png_logo_vector/google-data-studio.png"> Google Data Studio
 * <img align="top" height="20"  src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png"> Excel
  
+ ## Portfolio
+ [Power BI](https://github.com/Peixoto-R/Estudos_PowerBI)
+ 
 
 ## 📍 You can find me in:
 
